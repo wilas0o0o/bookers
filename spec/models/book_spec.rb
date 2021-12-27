@@ -40,6 +40,5 @@ RSpec.describe Book, "モデルに関するテスト", type: :model do
       expect(page).to have_content "can't be blank"
     end
   end
-  
-
+zzz
 end
